@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ElizabethTrindade
+- 👋 Hi, I’m Beth
 - 👀 I’m interested in do web sites 
 - 🌱 I’m currently learning Python, JS, HTMl and CSS
 - 😄 Pronouns: She/her
