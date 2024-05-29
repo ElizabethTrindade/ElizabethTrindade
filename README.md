@@ -1,7 +1,7 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando novas tecnologias.
 - 🎓 Estudando Informatica no Cotuca.
 - 💻 Começando os estudos este ano.
 ## Minhas Skills
