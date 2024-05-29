@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Beth
 - 👀 I’m interested in do web sites 
-- 🌱 I’m currently learning Python, JS, HTMl and CSS
+- 🌱 I’m currently learning Python, JS, HTML and CSS
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I like books 📚
